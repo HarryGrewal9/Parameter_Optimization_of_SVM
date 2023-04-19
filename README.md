@@ -99,44 +99,6 @@ We are optimizing the parameters of SVM(Support Vector Machine) for multiclass d
 	All input attributes are integers in the range 0..100.
 	The last attribute is the class code 0..9
 
-8. Missing Attribute Values
-	None
 
-9. Class Distribution
-	Class: No of examples in training set
-	0:  780
-	1:  779
-	2:  780
-	3:  719
-	4:  780
-	5:  720
-	6:  720
-	7:  778
-	8:  719
-	9:  719
-	Class: No of examples in testing set
-	0:  363
-	1:  364
-	2:  364
-	3:  336
-	4:  364
-	5:  335
-	6:  336
-	7:  364
-	8:  336
-	9:  336
-
-Accuracy on the testing set with k-nn 
-using Euclidean distance as the metric
-
- k =  1 : 97.74
- k =  2 : 97.37
- k =  3 : 97.80
- k =  4 : 97.66
- k =  5 : 97.60
- k =  6 : 97.57
- k =  7 : 97.54
- k =  8 : 97.54
- k =  9 : 97.46
- k = 10 : 97.48
- k = 11 : 97.34
+Sample 10 gives best Accuracy.
+![image](https://user-images.githubusercontent.com/104484529/233072889-149ab5b3-de1f-4417-bb18-34f67ecb70c7.png)
