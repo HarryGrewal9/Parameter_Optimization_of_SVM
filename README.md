@@ -1,6 +1,6 @@
 # Parameter_Optimization_of_SVM
 
-We are optimizing the parameters of SVM(Support Vector Machine) for multiclass dataset.
+We are optimizing the parameters of SVM(Support Vector Machine) for multiclass dataset.(Optimal kernel, nu(marked as C in the code [0,1] or gamma values to use).
 
 # Dataset Analysis 
 ### UCI Database: Pen-Based Recognition of Handwritten Digits
